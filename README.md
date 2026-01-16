@@ -1,2 +1,2 @@
 # secondbrain_mvp
-A reflective web-based system for clarifying thought and values.
+A reflective web-based system for long-term decision support
